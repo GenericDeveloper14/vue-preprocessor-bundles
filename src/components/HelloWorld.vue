@@ -71,7 +71,7 @@
 </template>
 
 <script>
-import "minireset.css/minireset.sass";
+// import "minireset.css/minireset.sass";
 export default {
   name: "HelloWorld",
   props: {
